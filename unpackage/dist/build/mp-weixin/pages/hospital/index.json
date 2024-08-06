@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "医院详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "share": "../../components/share/share"
+  }
+}
